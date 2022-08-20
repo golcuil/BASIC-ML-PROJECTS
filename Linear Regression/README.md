@@ -1,2 +1,2 @@
 # Linear-Regression
-Linear Regression Project with Ecommerce Customers Dataset
+Basic Linear Regression Project with Ecommerce Customers Dataset
